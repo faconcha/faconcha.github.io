@@ -1,1 +1,1 @@
-Sitemap: https://janczizikow.github.io//sleek/sitemap.xml
+Sitemap: http://0.0.0.0:4000/sleek/sitemap.xml
