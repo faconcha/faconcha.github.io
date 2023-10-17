@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
 title: Felipe Concha's Machine Learning Portfolio # your site title
 author: Felipe Concha # You :P
-description: > # Meta description of Homepage
+description: > # Meta description of Homepage. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
     I am Felipe Concha, a Structural Civil Engineer with a Master's in Computational Mechanics. Currently, I'm deepening my expertise in 
     Machine Learning through my PhD research, focusing on its application to computational models. Beyond academia, I've channeled my knowledge 
     into the entrepreneurial realm, founding a startup dedicated to AI-driven structural optimization. With a solid foundation in engineering,
     advanced computational skills, and a track record of innovation, I'm eager to explore opportunities where I can apply this multidisciplinary 
-    expertise to address real-world challenges.
+    expertise to address real-world challenges. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://faconcha.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
