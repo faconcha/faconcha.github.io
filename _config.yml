@@ -1,10 +1,12 @@
 # SITE CONFIGURATION
-title: Felipe Concha's ML Portfolio # your site title
+title: Felipe Concha's Machine Learning Portfolio # your site title
 author: Felipe Concha # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    I am Felipe Concha, a Structural Civil Engineer with a Master's in Computational Mechanics. Currently, I'm deepening my expertise in 
+    Machine Learning through my PhD research, focusing on its application to computational models. Beyond academia, I've channeled my knowledge 
+    into the entrepreneurial realm, founding a startup dedicated to AI-driven structural optimization. With a solid foundation in engineering,
+    advanced computational skills, and a track record of innovation, I'm eager to explore opportunities where I can apply this multidisciplinary 
+    expertise to address real-world challenges.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://faconcha.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -12,12 +14,12 @@ url: "https://faconcha.github.io/" # the base hostname & protocol for your site,
 social:
   name: Felipe Concha
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    #- https://twitter.com/BenBalter
+    #- https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/in/felipe-concha-rojas-2b7606152/
+    #- https://plus.google.com/+BenBalter
+    - https://github.com/faconcha
+    #- https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -26,15 +28,15 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  A porfolio with some of my hands-on machine learning models inluding self-developed examples and paper implementations.
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/torres_del_paine.jpeg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: faconchar@gmail.com # email for form submission
 
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  faconcha # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+#twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
+github_username:  faconcha     # replace with your_github_username or comment to remove link from footer
+#instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: janczizikow # to enable comments replace with your_disqus_shortname
