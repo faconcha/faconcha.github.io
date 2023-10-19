@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Faconcha's Portfolio 
+title: Sleek Jekyll Theme
 ---
